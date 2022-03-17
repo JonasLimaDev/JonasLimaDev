@@ -1,6 +1,7 @@
 - 👋 Hi, meu nome é Jonas Lima
-- 🌱 Sou Programador Python amador,tenho trabalhado principalmente com framework Django.
-- 📫 How to reach me ...
+- 🌱 Sou Programador Python amador, tenho trabalhado principalmente com framework Django.
+- Gosto de facilitar(ou tentar) tarefas repetitivas.
+- Atualmente trabalho como Agente Administrativo. 
 
 <!---
 JonasLimaDev/JonasLimaDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
