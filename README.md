@@ -1,7 +1,7 @@
 - 👋 Hi, meu nome é Jonas Lima
 - 🌱 Sou Programador Python amador, tenho trabalhado principalmente com framework Django.
 - Gosto de facilitar(ou tentar) tarefas repetitivas.
-- ~Atualmente trabalho como Agente Administrativo na Secretaria Municipal de Assistência e Promoção Social - SEMAPS em Altamira - PA ~
+- Trabalhei como Agente Administrativo na Secretaria Municipal de Assistência e Promoção Social - SEMAPS em Altamira - PA
 - Atualmente trabalho como Técnico de Tecnologia da Informação na Universidade Federal do Pará - Campus Altamira
 
    [![Visits Badge](https://badges.pufler.dev/visits/JonasLimaDev/JonasLimaDev)](https://badges.pufler.dev)
