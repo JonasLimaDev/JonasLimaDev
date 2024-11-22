@@ -1,4 +1,4 @@
-- 👋 Hi, meu nome é Jonas Lima
+- 👋 Olar, meu nome é Jonas Lima
 - 🌱 Sou Programador Python amador, tenho trabalhado principalmente com framework Django.
 - Gosto de facilitar(ou tentar) tarefas repetitivas.
 - Trabalhei como Agente Administrativo na Secretaria Municipal de Assistência e Promoção Social - SEMAPS em Altamira - PA
